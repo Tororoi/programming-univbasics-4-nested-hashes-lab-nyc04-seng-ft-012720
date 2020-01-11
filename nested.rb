@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-	programmer_hash.pop(:dennis_ritchie)
+	programmer_hash[:grace_hopper]
 
 end
 
